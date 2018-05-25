@@ -5,3 +5,5 @@ Class Activation Maps(CAM) are an easy way to understand where the trained CNN i
 More on CAM can be found here https://arxiv.org/pdf/1512.04150.pdf.
 
 Dataset for training the CAM model can be downloaded here  github.com/ardamavi/Sign-Language-Digits-Dataset. And the pretrained VGG16 model for weight initialization resides in http://www.cs.toronto.edu/~frossard/post/vgg16/.
+
+https://github.com/vinayakaraj-t/Class-Activation-Maps-for-American-Sign-Language--Digits/blob/master/output.png
